@@ -1,3 +1,3 @@
 # Bio001
-![GitHub Logo](/bio.jpg)
-Format: ![Alt Text](url)
+
+![Bioinformatics image](/bio.jpg "Bioinformatics")
